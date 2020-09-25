@@ -1,0 +1,16 @@
+{
+  "name": "entrega-api-get",
+  "version": "1.0.0",
+  "description": "Exercicio API - GET - Read Single and Read All",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon servidor.js"
+  },
+  "author": "Iris Brito",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
